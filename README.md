@@ -2,7 +2,7 @@
 
 ## I'm an aspiring programmer!!
 
-- 🔭 I just launched my first blog website: [Here!][website]
+- 🔭 I just launched my blog website: [Here!][website]
 - 🌱 I’m currently learning data analysis, writing and psychology
 - 🥅 2021 Goals: Have an multidisciplinary knowledge
 - ⚡ Fun fact: I love to write and play guitar
