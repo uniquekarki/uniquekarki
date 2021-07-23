@@ -3,9 +3,8 @@
 ## I'm an aspiring programmer!!
 
 - 🔭 I just launched my first blog website: [Here!][website]
-- 🌱 I’m currently learning data analysis, writing and psycology 🤣
-- 👯 I’m looking for basic level work for ML
-- 🥅 2021 Goals: Have an all-round knowledge
+- 🌱 I’m currently learning data analysis, writing and psycology
+- 🥅 2021 Goals: Have an multidisciplinary knowledge
 - ⚡ Fun fact: I love to write and play guitar
 
 ### Connect with me:
