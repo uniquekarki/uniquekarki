@@ -43,6 +43,14 @@
 
 ---
 
+[![Unique's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniquekarki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=uniquekarki)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)
+
+
+---
 [website]: https://uniquekarki.com.np
 [twitter]: https://twitter.com/karki_nick
 [instagram]: https://instagram.com/karki_nick
