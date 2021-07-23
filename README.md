@@ -1,8 +1,5 @@
 ### Hi there, I'm [Unique Karki][website] 👋
 
-[![Website](https://img.shields.io/website?label=uniquekarki.com.np&style=for-the-badge&url=https%3A%2F%2Funiquekarki.com.np)](https://uniquekarki.com.np)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm an aspiring programmer!!
 
 - 🔭 I just launched my first blog website: [Here!][website]
@@ -10,10 +7,6 @@
 - 👯 I’m looking for basic level work for ML
 - 🥅 2021 Goals: Have an all-round knowledge
 - ⚡ Fun fact: I love to write and play guitar
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -42,48 +35,16 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Shorts - Issue 3 - How I plan out my day as a Software Developer](https://www.youtube.com/watch?v=JbYSNA5MqM0)
-- [STACKr News Shorts - Issue 3 - You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=pV_-EwSe6j8)
-- [STACKr News Shorts - Issue 3 - An Introduction To Handling Exceptions In Python](https://www.youtube.com/watch?v=XxglWHo9oMw)
-- [STACKr News Shorts - Issue 3 - I Made a Game in Flutter](https://www.youtube.com/watch?v=JbO8Vfc49mQ)
-- [STACKr News Shorts - Issue 3 - Top News](https://www.youtube.com/watch?v=p91I2NebuRY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nihilistic Visions](https://uniquekarki.com.np/2021/04/nihilistic-visions/)
+- [Passions And Life](https://uniquekarki.com.np/2021/05/passions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://uniquekarki.com.np)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://uniquekarki.com.np
 [twitter]: https://twitter.com/karki_nick
