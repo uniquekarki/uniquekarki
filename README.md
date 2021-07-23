@@ -36,10 +36,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Nihilistic Visions](https://uniquekarki.com.np/2021/04/nihilistic-visions/)
 - [Passions And Life](https://uniquekarki.com.np/2021/05/passions/)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://uniquekarki.com.np)
 
@@ -47,10 +45,5 @@
 
 [website]: https://uniquekarki.com.np
 [twitter]: https://twitter.com/karki_nick
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/karki_nick
 [linkedin]: https://linkedin.com/in/unique-karki
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
