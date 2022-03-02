@@ -2,10 +2,10 @@
 
 ## I'm an aspiring programmer!!
 
-- 🔭 I just launched my blog website: [Here!][website]
-- 🌱 I’m currently learning data analysis, writing and psychology
-- 🥅 2021 Goals: Have multidisciplinary knowledge
-- ⚡ Fun fact: I love to play guitar and write
+- 🔭 Check out my bhog: [Here!][website]
+- 🌱 I’m currently learning data analysis and web development.
+- 🥅 2022 Goals: To have multidisciplinary knowledge.
+- ⚡ Fun fact: I love playing guitar and writing.
 
 ### Connect with me:
 
@@ -49,8 +49,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)
 
-
 ---
+
 [website]: https://uniquekarki.com.np
 [twitter]: https://twitter.com/karki_nick
 [instagram]: https://instagram.com/karki_nick
