@@ -2,7 +2,7 @@
 
 ## I'm an aspiring programmer!!
 
-- 🔭 Check out my bhog: [Here!][website]
+- 🔭 Check out my blog: [Here!][website]
 - 🌱 I’m currently learning data analysis and web development.
 - 🥅 2022 Goals: To have multidisciplinary knowledge.
 - ⚡ Fun fact: I love playing guitar and writing.
