@@ -3,9 +3,9 @@
 ## I'm an aspiring programmer!!
 
 - 🔭 Check out my blog: [Here!][website]
-- 🌱 I’m currently learning data analysis and web development.
-- 🥅 2022 Goals: To have multidisciplinary knowledge.
-- ⚡ Fun fact: I love playing guitar and writing.
+- 🌱 I’m currently learning Deep Learning and Image processing.
+- 🥅 2024 Goals: To have multidisciplinary knowledge.
+- ⚡ Fun fact: I am a trail runner ⛰️🏃‍♂️.
 
 ### Connect with me:
 
@@ -40,14 +40,6 @@
 - [Nihilistic Visions](https://uniquekarki.com.np/2021/04/nihilistic-visions/)
 
 ➡️ [more blog posts...](https://uniquekarki.com.np)
-
----
-
-[![Unique's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniquekarki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=uniquekarki)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)
 
 ---
 
