@@ -2,8 +2,8 @@
 
 ## I'm an aspiring programmer!!
 
-- 🔭 Check out my blog: [Here!][website]
-- 🌱 I’m currently learning Deep Learning and Image processing.
+<!-- - 🔭 Check out my blog: [Here!][website] -->
+- 🌱 I’m currently learning Deep Learning and Graph Neural Network.
 - 🥅 2024 Goals: To have multidisciplinary knowledge.
 - ⚡ Fun fact: I am a trail runner ⛰️🏃‍♂️.
 
@@ -16,7 +16,7 @@
 
 <br />
 
----
+<!-- ---
 
 ### 📕 Latest Blog Posts
 
@@ -26,7 +26,7 @@
 
 ➡️ [more blog posts...](https://uniquekarki.com.np)
 
----
+--- -->
 
 [website]: https://uniquekarki.com.np
 [twitter]: https://twitter.com/karki_nick
