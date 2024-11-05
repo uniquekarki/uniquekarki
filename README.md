@@ -40,7 +40,6 @@ me.introduce()
 ### Technologies & Tools
 - **Languages**: Python, C++, JavaScript
 - **Libraries & Frameworks**: PyTorch, Flask, Django, Streamlit
-- **Other Interests**: System Design, Cloud Architecture
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/unique-karki/)
