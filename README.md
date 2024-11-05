@@ -1,34 +1,38 @@
-### Hi there, I'm [Unique Karki][website] 👋
+# Hello There
 
-## I'm an aspiring programmer!!
+### About Me
+I'm Unique Karki, a Computer Science enthusiast with a passion for unraveling complex challenges in AI, from natural language understanding to the latest in neural networks and graph-based models.
 
-<!-- - 🔭 Check out my blog: [Here!][website] -->
-- 🌱 I’m currently learning Deep Learning and Graph Neural Network.
-- 🥅 2024 Goals: To have multidisciplinary knowledge.
-- ⚡ Fun fact: I am a trail runner ⛰️🏃‍♂️.
+```python
+class MLResearcher:
+    def __init__(self):
+        self.name = "Unique Karki"
+        self.focus_areas = [
+            "Graph Neural Networks",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Algorithm Optimization"
+        ]
+        self.current_focus = "Exploring the intricacies of Graph Neural Networks"
+    
+    def introduce(self):
+        return (
+            f"Hey there! I'm {self.name}, diving deep into the world of {self.current_focus}. "
+            f"I specialize in {', '.join(self.focus_areas)} and am always eager to tackle complex challenges. "
+            "If it involves data, algorithms, or innovative problem-solving, count me in!"
+        )
 
-### Connect with me:
+me = MLResearcher()
+print(me.introduce())
+```
 
-[<img align="left" alt="unique" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="unique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="unique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="unique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Technologies & Tools
+- **Languages**: Python, C++, JavaScript
+- **Libraries & Frameworks**: PyTorch, Flask, Django, Streamlit
+- **Other Interests**: System Design, Cloud Architecture
 
-<br />
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/unique-karki/)
+- [Email](mailto:uniquekarki02@gmail.com)
 
-<!-- ---
-
-### 📕 Latest Blog Posts
-
-- [Questions](https://uniquekarki.com.np/2021/07/questions/)
-- [Passions And Life](https://uniquekarki.com.np/2021/05/passions/)
-- [Nihilistic Visions](https://uniquekarki.com.np/2021/04/nihilistic-visions/)
-
-➡️ [more blog posts...](https://uniquekarki.com.np)
-
---- -->
-
-[website]: https://uniquekarki.com.np
-[twitter]: https://twitter.com/karki_nick
-[instagram]: https://instagram.com/karki_nick
-[linkedin]: https://linkedin.com/in/unique-karki
+Feel free to reach out with questions or collaborations on Machine Learning and AI projects.
