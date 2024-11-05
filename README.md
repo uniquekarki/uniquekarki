@@ -8,22 +8,33 @@ class MLResearcher:
     def __init__(self):
         self.name = "Unique Karki"
         self.focus_areas = [
+            "Machine Learning",
             "Graph Neural Networks",
-            "Natural Language Processing",
             "Large Language Models",
             "Algorithm Optimization"
         ]
         self.current_focus = "Exploring the intricacies of Graph Neural Networks"
     
     def introduce(self):
-        return (
-            f"Hey there! I'm {self.name}, diving deep into the world of {self.current_focus}. "
-            f"I specialize in {', '.join(self.focus_areas)} and am always eager to tackle complex challenges. "
-            "If it involves data, algorithms, or innovative problem-solving, count me in!"
+        print(
+        """
+        Hey there!
+
+        I'm {name}, diving deep into the world of {focus}. 
+
+        I specialize in {knowledge_base} and am always eager to tackle complex challenges. 
+
+        If it involves data, algorithms, or innovative problem-solving, count me in!
+        """
+        .format(
+            name=self.name,
+            focus=self.current_focus,
+            knowledge_base=", ".join(self.focus_areas),
+            )
         )
 
 me = MLResearcher()
-print(me.introduce())
+me.introduce()
 ```
 
 ### Technologies & Tools
